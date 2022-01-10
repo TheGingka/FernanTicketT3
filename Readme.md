@@ -47,7 +47,7 @@ Para el registro, pulsamos en el menú principal, 2:
 
 ## Administrador
 
-### Usuario: Manuel Contraseña: pepe
+### Usuario: admin Contraseña: admin
 
 El administrador puede: Eliminar y agregar técnicos, asignar incidencias a técnicos, consultar todas las incidencias,
 consultar todos los usuarios y técnicos en la aplicación, apagar la aplicación.
@@ -120,7 +120,7 @@ Para cerrar programa:
 
 ## Técnico
 
-### Usuario segundo técnico: Carlos Contraseña: pepe
+### Usuario segundo técnico: tech Contraseña: tech
 
 La función de técnico se basa en resolver los tickets generados por los usuarios y asignados por el administrador.
 
@@ -174,6 +174,8 @@ Cerrar sesión, opción 6.
 
 
 ## Usuario Normal
+
+### Usuario: user Contraseña: user
 
   Se pueden dar de alta en la aplicación ellos mismos, pueden crear tickets de incidencias,
   tambien pueden consultar el estado de las incidencias que ellos mismos han creado.

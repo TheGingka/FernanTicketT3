@@ -5,10 +5,24 @@
 Esta aplicación servirá para crear tickets de incidencias. Utilizando 3 tipos de usuarios, administrador,
 técnico y usuario normal, con diferentes permisos.
 
-## Instalación y uso
+## Instalación y ejecución
 
 Para poder utilizar esta aplicación, debemos abrir el contenido de FernanTicket - BAT, una vez abierto, encontraremos las clases y el .bat, un ejecutable.
 Para abrir la aplicación simplemente haz doble click en el .bat.
+
+## Autores
+
+Hecho por Manuel Hermoso López y Antonio Juan González Izquierdo
+
+## Soporte
+
+Para poder contactar con soporte, tenemos habilitado el GMAIL de cada autor para cualquier duda sobre este proyecto.
+
+## Estado del proyecto
+
+El proyecto está completado hasta los conocimientos del TEMA 3 en Programación, irá mejorando a medida que aumenten los conocimientos en el grado.
+
+## Uso
 
 ## Inicio
 

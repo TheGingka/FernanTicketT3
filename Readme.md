@@ -22,8 +22,6 @@ Para poder contactar con soporte, tenemos habilitado el GMAIL de cada autor para
 
 El proyecto está completado hasta los conocimientos del TEMA 3 en Programación, irá mejorando a medida que aumenten los conocimientos en el grado.
 
-## Uso
-
 ## Inicio
 
 En el inicio encontraremos el Inicio de sesión y el registro de un usuario normal. Para empezar, podemos logearnos con un usuario normal o crear uno nuevo.

@@ -1,6 +1,6 @@
 # Fernanticket T4 🛠️
 
-[![Captura-de-pantalla-2022-01-10-105805.png](https://i.postimg.cc/kXjMXC8t/Captura-de-pantalla-2022-01-10-105805.png)](https://postimg.cc/MvQJdh9W)
+<img width="434" alt="image" src="https://user-images.githubusercontent.com/72271606/152536368-dfb400cb-b42d-429c-bc66-dabba16a4d7f.png">
 
 Esta aplicación servirá para crear tickets de incidencias. Utilizando 3 tipos de usuarios, administrador,
 técnico y usuario normal, con diferentes permisos.

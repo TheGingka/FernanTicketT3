@@ -1,4 +1,4 @@
-# Fernanticket T3 🛠️
+# Fernanticket T4 🛠️
 
 [![Captura-de-pantalla-2022-01-10-105805.png](https://i.postimg.cc/kXjMXC8t/Captura-de-pantalla-2022-01-10-105805.png)](https://postimg.cc/MvQJdh9W)
 
@@ -20,7 +20,21 @@ Para poder contactar con soporte, tenemos habilitado el GMAIL de cada autor para
 
 ## Estado del proyecto
 
-El proyecto está completado hasta los conocimientos del TEMA 3 en Programación, irá mejorando a medida que aumenten los conocimientos en el grado.
+El proyecto está completado hasta los conocimientos del TEMA 4 en Programación, irá mejorando a medida que aumenten los conocimientos en el grado.
+
+## Actualización
+
+Se han agregado funcionalidades como:
+
+  - Envío de información a TELEGRAM en base a las incidencias.
+  - Envío de información a CORREO en base a registro de usuarios, creando un TOKEN de inicio de sesión.
+
+## Envio de TOKEN
+
+Cuando creamos un usuario, se nos asigna un token que llegará por correo.
+
+<img width="817" alt="image" src="https://user-images.githubusercontent.com/72271606/152529688-2b1ee5b8-e188-44fb-8352-cb31c44be917.png">
+
 
 ## Inicio
 

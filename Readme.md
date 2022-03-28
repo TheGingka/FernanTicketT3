@@ -47,18 +47,6 @@ Se puede ver que se envia información de TOKEN de usuarios registrados, e infor
 En el inicio encontraremos el Inicio de sesión y el registro de un usuario normal. Para empezar, podemos logearnos con un usuario normal o crear uno nuevo.
 Después, podremos salir del usuario que hemos iniciado sesión, en su respectivo menú.
 
-### Inicio de sesión
-
-Para el inicio de sesión, pulsamos 1. Tenemos varias opciones de inicio de sesión, dependiendo del usuario
-que utilizaremos en la aplicación.
-
-<img width="392" alt="image" src="https://user-images.githubusercontent.com/72271606/148749558-ebd3908b-da10-4938-8fed-2dff3ad96952.png">
-
-Entramos con un usuario normal, donde ya entramos en el menú de Usuario normal.
-
-<img width="444" alt="image" src="https://user-images.githubusercontent.com/72271606/148749615-eed1db53-3cab-411a-93dd-5a7c458bd283.png">
-
-
 ### Registro
 
 Para el registro, pulsamos en el menú principal, 2:

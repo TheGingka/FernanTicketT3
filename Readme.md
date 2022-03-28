@@ -7,7 +7,7 @@ técnico y usuario normal, con diferentes permisos.
 
 ## Instalación y ejecución
 
-Para poder utilizar esta aplicación, debemos abrir el contenido de FernanTicket - BAT, una vez abierto, encontraremos las clases y el .bat, un ejecutable.
+Para poder utilizar esta aplicación, debemos abrir el contenido de FernanTicket - JAR, una vez abierto, encontraremos las clases y el .bat, un ejecutable.
 Para abrir la aplicación simplemente haz doble click en el .bat.
 
 ## Autores
@@ -92,6 +92,7 @@ Consultamos todos los técnicos que hay en el programa.
 Consultamos las incidencias por las letras que introducimos.
 
 #### Asignar una incidencia a un tecnico
+
 Para asignar una incidencia, primero hay que crearla, luego entrar en Administrador, y después de asignarla
 a un técnico, este técnico la arregla. Primero se elige la incidencia, y luego el técnico.
 
@@ -148,25 +149,25 @@ como RESUELTA.
 
 #### Consultar las incidencias que he resuelto
 
-Con el 3, comprobamos las que ha resuelto:
+Comprobamos las que ha resuelto:
 
 <img width="405" alt="image" src="https://user-images.githubusercontent.com/72271606/148750247-bff49663-bffc-4f82-85fc-5a6c5231c6c2.png">
 
 #### Mostrar mi perfil
 
-Mostrar el perfil de Técnico, opción 4:
+Mostrar el perfil de Técnico.
 
 <img width="443" alt="image" src="https://user-images.githubusercontent.com/72271606/148750311-eea6486c-23b3-4da4-bf73-ec0fdd0a3999.png">
 
 #### Cambiar clave de acceso
 
-Cambiar clave de acceso en técnico, opción 5.
+Cambiar clave de acceso en técnico.
 
 <img width="445" alt="image" src="https://user-images.githubusercontent.com/72271606/148750362-cabd6c22-86da-4ad7-a5f0-82b00b890188.png">
 
 #### Cerrar sesión
 
-Cerrar sesión, opción 6.
+Cerrar sesión.
 
 <img width="489" alt="image" src="https://user-images.githubusercontent.com/72271606/148750410-66e32472-6f27-49ec-a670-5a409d21ca5e.png">
 

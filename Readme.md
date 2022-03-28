@@ -20,7 +20,7 @@ Para poder contactar con soporte, tenemos habilitado el GMAIL de cada autor para
 
 ## Estado del proyecto
 
-El proyecto está completado hasta los conocimientos del TEMA 4 en Programación, irá mejorando a medida que aumenten los conocimientos en el grado.
+El proyecto está completado hasta los conocimientos del TEMA 5 en Programación, irá mejorando a medida que aumenten los conocimientos en el grado.
 
 ## Actualización
 

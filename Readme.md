@@ -108,10 +108,6 @@ Ver todos los usuarios:
 
 <img width="172" alt="image" src="https://user-images.githubusercontent.com/72271606/148750688-79347093-da6f-46b0-af4e-331a0a77e77e.png">
 
-
-<img width="310" alt="image" src="https://user-images.githubusercontent.com/72271606/148750761-7467d48e-d7a2-42be-bd1c-6c4dceef13f3.png">
-<img width="538" alt="image" src="https://user-images.githubusercontent.com/72271606/148750778-72b29234-9f9e-4369-a963-96c8904a77ec.png">
-
 #### Estadísticas de la aplicación.
 
 Muestra información redundante de la aplicación.

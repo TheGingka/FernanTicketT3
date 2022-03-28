@@ -71,16 +71,49 @@ Para el registro, pulsamos en el menú principal, 2:
 
 ### Usuario: admin / Contraseña: admin
 
+### Menú de admin:
+
+1.- Consultar todas las inicencias abiertas.  
+2.- Consultar todas las incidencias cerradas. 
+3.- Consultar los técnicos.                   
+4.- Consultar incidencias por término.        
+5.- Asignar una incidencia a un técnico.      
+6.- Dar de alta un técnico.                   
+7.- Borrar un técnico.                        
+8.- Consultar los usuarios.                   
+9.- Estadísticas de la aplicación.            
+10.- Cerrar sesión.
+
 El administrador puede: Eliminar y agregar técnicos, asignar incidencias a técnicos, consultar todas las incidencias,
 consultar todos los usuarios y técnicos en la aplicación, apagar la aplicación.
 
-#### Consultar incidencias
+#### Consultar todas las inicencias abiertas. 
 
-Para consultar todas las incidencias, veremos que hay del 1 - 3, unas 2 veces, eso significa, que las
-primeras tres incidencias están asignadas al primer usuario, y las otras 3 al segundo. Aquí se ven todas las
-incidencias.
+Consultamos las incidencias que hay en este momento abiertas. De usuario y de técnico.
 
-<img width="471" alt="image" src="https://user-images.githubusercontent.com/72271606/148750472-a0e7b23d-449f-4d93-b8a3-3718cf3833ab.png">
+#### Consultar todas las incidencias cerradas. 
+
+Consultamos las incidencias que hay en este momento cerradas. Solo muestra las de técnico.
+
+#### Consultar los técnicos. 
+
+Consultamos todos los técnicos que hay en el programa.
+
+#### Consultar incidencias por término.
+
+Consultamos las incidencias por las letras que introducimos.
+
+#### Asignar una incidencia a un tecnico
+Para asignar una incidencia, primero hay que crearla, luego entrar en Administrador, y después de asignarla
+a un técnico, este técnico la arregla. Primero se elige la incidencia, y luego el técnico.
+
+#### Dar de alta un técnico.
+
+Se introduce un técnico nuevo, no tiene la misma ID que tienen los otros, al igual que el email al registralo, este no tiene TOKEN como en el registro de usuario.
+
+#### Borrar un técnico.
+
+Se borra un técnico, moviendo sus incidencias abiertas a otro. En el caso de que tenga una cerrada, no se puede eliminar.
 
 #### Consultar todos los usuarios
 Ver todos los usuarios:
@@ -88,47 +121,17 @@ Ver todos los usuarios:
 <img width="172" alt="image" src="https://user-images.githubusercontent.com/72271606/148750688-79347093-da6f-46b0-af4e-331a0a77e77e.png">
 
 
-#### Consultar todos los tecnicos
-Ver todos los tecnicos:
-
-<img width="283" alt="image" src="https://user-images.githubusercontent.com/72271606/148750743-19e415da-d715-4ba0-b5f6-758b91e9cd96.png">
-
-
-#### Asignar una incidencia a un tecnico
-Para asignar una incidencia, primero hay que crearla, luego entrar en Administrador, y después de asignarla
-a un técnico, este técnico la arregla. Primero se elige la incidencia, y luego el técnico.
-
 <img width="310" alt="image" src="https://user-images.githubusercontent.com/72271606/148750761-7467d48e-d7a2-42be-bd1c-6c4dceef13f3.png">
 <img width="538" alt="image" src="https://user-images.githubusercontent.com/72271606/148750778-72b29234-9f9e-4369-a963-96c8904a77ec.png">
 
+#### Estadísticas de la aplicación.
 
-#### Dar de alta un tecnico
-Para dar de alta a un técnico, en opción 5, hacemos lo siguiente:
-
-<img width="279" alt="image" src="https://user-images.githubusercontent.com/72271606/148750811-de37b0b7-c65c-422a-8580-dc48d743cd26.png">
-
-
-#### Borrar un tecnico
-Para borrar un técnico, utilizamos la opción 6.
-
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/72271606/148750846-a132d832-bc26-4eb9-b8ee-a20b0820bfb7.png">
-
-Una vez elegido:
-
-<img width="384" alt="image" src="https://user-images.githubusercontent.com/72271606/148750883-ba1d1e74-2a06-4feb-bbf1-f773b1c3a60b.png">
-
+Muestra información redundante de la aplicación.
 
 #### Cerrar sesión
 Para cerrar sesión:
 
 <img width="486" alt="image" src="https://user-images.githubusercontent.com/72271606/148750918-59a996c1-768f-4bf1-bfd0-6c7176ea2cc7.png">
-
-
-#### Cerrar programa
-Para cerrar programa:
-
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/72271606/148750946-01bf1da5-6e65-4316-8c46-21baab91723e.png">
-
 
 ## Técnico
 

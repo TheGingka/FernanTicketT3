@@ -25,9 +25,10 @@ El proyecto está completado hasta los conocimientos del TEMA 4 en Programación
 ## Actualización
 
 Se han agregado funcionalidades como:
-
+ 
   - Envío de información a TELEGRAM en base a las incidencias.
   - Envío de información a CORREO en base a registro de usuarios, creando un TOKEN de inicio de sesión.
+  - Añadir opciones en el menú de Admin.
 
 ## Envio de TOKEN
 

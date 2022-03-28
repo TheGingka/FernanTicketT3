@@ -67,20 +67,12 @@ Para el registro, pulsamos en el menú principal, 2:
 
 ## Administrador
 
+<img width="403" alt="image" src="https://user-images.githubusercontent.com/72271606/160387219-ee7b8076-d079-4942-9cfb-6f3833e936ba.png">
+
 ### Usuario: admin / Contraseña: admin
 
 El administrador puede: Eliminar y agregar técnicos, asignar incidencias a técnicos, consultar todas las incidencias,
 consultar todos los usuarios y técnicos en la aplicación, apagar la aplicación.
-
-Este es el menú de administrador:
-
-  1. Consultar todas las incidencias
-  2. Consultar todos los usuarios
-  3. Asignar una incidencia a un técnico
-  4. Dar de alta a un técnico
-  5. Borrar un técnico
-  6. Cerrar sesión
-  7. APAGAR SISTEMA
 
 #### Consultar incidencias
 
@@ -140,6 +132,8 @@ Para cerrar programa:
 
 ## Técnico
 
+<img width="382" alt="image" src="https://user-images.githubusercontent.com/72271606/160387152-160e6fb8-3759-4860-a0b3-4a51f2edcfcb.png">
+
 ### Usuario segundo técnico: tech / Contraseña: tech
 
 La función de técnico se basa en resolver los tickets generados por los usuarios y asignados por el administrador.
@@ -194,6 +188,8 @@ Cerrar sesión, opción 6.
 
 
 ## Usuario Normal
+
+<img width="304" alt="image" src="https://user-images.githubusercontent.com/72271606/160387100-ac8a5477-8452-4608-a3d2-8c68a050b879.png">
 
 ### Usuario: user / Contraseña: user
 

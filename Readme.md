@@ -143,15 +143,12 @@ Este es el menu de técnico:
 Si queremos esta opción, pulsamos 1. En este caso, encontraremos la incidencia RESUELTA del usuario
 normal USER.
 
-<img width="447" alt="image" src="https://user-images.githubusercontent.com/72271606/148750159-3eff200b-8dd0-4e51-84ec-fa8e429dca73.png">
-
 #### Marcar una incidencia como cerrada
 
 Para marcar una incidencia como cerrada, en la opción 2. Aquí seleccionamos la incidencia que no esté
 resuelta aún, asignada previamente por el administrador. Una vez la incidencia sea resuelta, aparecerá
 como RESUELTA.
 
-<img width="392" alt="image" src="https://user-images.githubusercontent.com/72271606/148750202-cab9614f-298c-423c-a3ae-e794fac12e26.png">
 
 #### Consultar las incidencias que he resuelto
 

@@ -24,20 +24,30 @@ El proyecto está completado hasta los conocimientos del TEMA 5 en Programación
 
 ## Actualización
 
-Se han agregado funcionalidades como:
+Se han agregado funcionalidades:
  
 	- Persistencia en toda la aplicación.
     - Uso de log.
     - Envío de log en formato EXCEL.
     - Nuevas opciones para el menú administrador.
+    - Uso de fichero properties.
 
 
-## Persistencia de objetos
+## Persistencia en objetos
 
 Ahora en nuestra aplicación, cada cambio o registro de usuarios que hagamos, se guardará en una archivo local. No dependeremos solo de la memoria RAM.
 
 Añadiendo persistencia en USUARIO, TECNICO y ADMIN.
-    
+
+<img width="101" alt="image" src="https://user-images.githubusercontent.com/72271606/164513194-cd8eefe3-f487-4624-8678-5fadcc26dcde.png">
+
+
+## Fichero properties
+
+Utilizaremos un fichero properties para la configuración de nuestra aplicación, este fichero guarda:
+
+- El último inicio de sesión de cada usuario.
+- Permitir acceso de invitado.
 
 ## Envio de TOKEN
 
@@ -80,6 +90,8 @@ Para el registro, pulsamos en el menú principal, 2:
 8.- Consultar los usuarios.                   
 9.- Estadísticas de la aplicación.            
 10.- Cerrar sesión.
+11.- Imprimir properties.
+12.- Enviar incidencias pendientes, EXCEL.
 
 El administrador puede: Eliminar y agregar técnicos, asignar incidencias a técnicos, consultar todas las incidencias,
 consultar todos los usuarios y técnicos en la aplicación, apagar la aplicación.

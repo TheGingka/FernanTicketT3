@@ -1,11 +1,11 @@
-# Fernanticket T5 🛠️
+# Fernanticket T6 🛠️
 
 <img width="434" alt="image" src="https://user-images.githubusercontent.com/72271606/152536368-dfb400cb-b42d-429c-bc66-dabba16a4d7f.png">
 
 Esta aplicación servirá para crear tickets de incidencias. Utilizando 3 tipos de usuarios, administrador,
 técnico y usuario normal, con diferentes permisos.
 
-## Instalación y ejecución
+## Instalación y ejecución 
 
 Para poder utilizar esta aplicación, debemos abrir el contenido de FernanTicket - JAR, una vez abierto, encontraremos las clases y el .bat, un ejecutable.
 Para abrir la aplicación simplemente haz doble click en el .bat.
@@ -26,9 +26,18 @@ El proyecto está completado hasta los conocimientos del TEMA 5 en Programación
 
 Se han agregado funcionalidades como:
  
-  - Envío de información a TELEGRAM en base a las incidencias.
-  - Envío de información a CORREO en base a registro de usuarios, creando un TOKEN de inicio de sesión.
-  - Añadir opciones en el menú de Admin.
+	- Persistencia en toda la aplicación.
+    - Uso de log.
+    - Envío de log en formato EXCEL.
+    - Nuevas opciones para el menú administrador.
+
+
+## Persistencia de objetos
+
+Ahora en nuestra aplicación, cada cambio o registro de usuarios que hagamos, se guardará en una archivo local. No dependeremos solo de la memoria RAM.
+
+Añadiendo persistencia en USUARIO, TECNICO y ADMIN.
+    
 
 ## Envio de TOKEN
 

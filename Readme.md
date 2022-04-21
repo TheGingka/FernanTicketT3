@@ -57,7 +57,7 @@ Cuando creamos un usuario, se nos asigna un token que llegará por correo.
 
 ## Envio de actualizaciones a TELEGRAM
 
-<img width="218" alt="image" src="https://user-images.githubusercontent.com/72271606/152534821-574ba230-64e9-4736-8b9a-b3b088d49993.png">
+<img width="328" alt="image" src="https://user-images.githubusercontent.com/72271606/164517178-d7578c45-a311-4b68-92f8-b0aab2060f5b.png">
 
 Se puede ver que se envia información de TOKEN de usuarios registrados, e información de incidencias.
 

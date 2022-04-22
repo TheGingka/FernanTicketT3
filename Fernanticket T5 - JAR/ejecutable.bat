@@ -1,1 +1,0 @@
-java -jar T5_Fernanticket.jar

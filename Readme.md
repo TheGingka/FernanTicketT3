@@ -14,10 +14,6 @@ Para abrir la aplicación simplemente haz doble click en el .bat.
 
 Hecho por Manuel Hermoso López y Antonio Juan González Izquierdo.
 
-## Soporte
-
-Para poder contactar con soporte, tenemos habilitado el Gmail de cada autor para cualquier duda sobre este proyecto.
-
 ## Estado del proyecto
 
 El proyecto está completado hasta los conocimientos del TEMA 8 en Programación, irá mejorando a medida que aumenten los conocimientos en el grado.

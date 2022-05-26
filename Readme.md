@@ -1,6 +1,6 @@
-# Fernanticket T6 🛠️
+# Fernanticket T8 🛠️
 
-<img width="434" alt="image" src="https://user-images.githubusercontent.com/72271606/152536368-dfb400cb-b42d-429c-bc66-dabba16a4d7f.png">
+<img width="388" alt="image" src="https://user-images.githubusercontent.com/72271606/170593071-7ce8ec46-fd75-40e9-80a4-e4b424bbb6e1.png">
 
 Esta aplicación servirá para crear tickets de incidencias. Utilizando 3 tipos de usuarios, administrador,
 técnico y usuario normal, con diferentes permisos.
@@ -26,11 +26,18 @@ El proyecto está completado hasta los conocimientos del TEMA 5 en Programación
 
 Se han agregado funcionalidades:
  
-	- Persistencia en toda la aplicación.
-    - Uso de log.
-    - Envío de log en formato EXCEL.
-    - Nuevas opciones para el menú administrador.
-    - Uso de fichero properties.
+	- Toda la persistencia está en base de datos.
+	- Uso de Docker, con MYSQL y PHPMYADMIN para alojar los datos de la aplicación.
+	- Recuperación de datos en la base de datos.
+
+
+## Docker - MYSQL - PHPMYADMIN
+
+Hemos utilizado DOCKER para alojar MYSQL y PHPMYADMIN.
+
+<img width="273" alt="image" src="https://user-images.githubusercontent.com/72271606/170592890-f2d63754-0aa1-48ff-8792-8b082b60370d.png">
+
+Ahora tenemos toda la persistencia, excepto log y properties, en base de datos.
 
 
 ## Persistencia en objetos

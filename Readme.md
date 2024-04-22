@@ -10,13 +10,6 @@ técnico y usuario normal, con diferentes permisos.
 Para poder utilizar esta aplicación, debemos abrir el contenido de FernanTicket - JAR, una vez abierto, encontraremos las clases y el .bat, un ejecutable.
 Para abrir la aplicación simplemente haz doble click en el .bat.
 
-## Autores
-
-Hecho por Manuel Hermoso López y Antonio Juan González Izquierdo.
-
-## Estado del proyecto
-
-El proyecto está completado hasta los conocimientos del TEMA 8 en Programación, irá mejorando a medida que aumenten los conocimientos en el grado.
 
 ## Actualización
 

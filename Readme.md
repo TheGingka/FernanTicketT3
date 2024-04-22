@@ -1,4 +1,4 @@
-# Fernanticket
+# Gestor de tickets
 
 <img width="388" alt="image" src="https://user-images.githubusercontent.com/72271606/170593071-7ce8ec46-fd75-40e9-80a4-e4b424bbb6e1.png">
 
